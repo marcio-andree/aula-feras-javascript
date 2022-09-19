@@ -1,0 +1,14 @@
+#box1 {
+  display: block;
+  background-color: #8fbc8f;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}
+
+p{
+  font-size: 18px;
+  background-color: #8fbc8f;
+  padding: 10px;
+  
+}
