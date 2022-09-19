@@ -1,1 +1,1 @@
-# aula-feras-javascript do curso feras da técnologia 
+# Aula de javascript do curso feras da técnologia 
