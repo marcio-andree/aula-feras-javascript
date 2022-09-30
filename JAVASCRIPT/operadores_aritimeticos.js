@@ -8,5 +8,3 @@ console.log('A divisão de x / y é: ', x / y);
 
 // x++; incrementa + 1
 // x--; descrescenta - 1
-x--;
-console.log(x);
